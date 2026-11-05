@@ -10,7 +10,7 @@ We've gone through about 300 papers, the registered trials and public datasets. 
 
 ## How to help
 
-👉 Join the Discord: https://discord.gg/MN8XFEPuyJ
+👉 [Join the Discord](https://discord.gg/MN8XFEPuyJ)
 
 Pick a small task, from 5 minutes to an evening. No science background needed, and no obligation.
 
@@ -26,7 +26,7 @@ Nothing here is medical advice. Sudden new floaters, flashes, or a shadow or cur
 
 ## Contact
 
-Ask on Discord, or message Daniil Morozov on [LinkedIn](https://www.linkedin.com/in/moroz-i-holod).
+Ask on [Discord](https://discord.gg/MN8XFEPuyJ), or message [Daniil Morozov](https://www.linkedin.com/in/moroz-i-holod) on LinkedIn.
 
 ## License
 
