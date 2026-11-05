@@ -24,7 +24,7 @@ If you work in eye surgery, a lab, collagen biology or the biology of the materi
 
 There's plenty to help with without a science background too. You could read a paper, translate a paragraph, or find a researcher who works on a question we're stuck on.
 
-Join the Discord: {{DISCORD_INVITE}}
+Join the Discord: https://discord.gg/MN8XFEPuyJ
 
 Pick a small task that interests you. Help with whatever you can, when you can. There's no obligation to keep going, and partial results are welcome. You can also just follow along.
 
