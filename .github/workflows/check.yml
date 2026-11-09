@@ -1,0 +1,14 @@
+name: check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: astral-sh/setup-uv@v6
+      # Links, private-ID and data rules for public repositories (github.com/unfloat-org/os).
+      - run: uvx --from git+https://github.com/unfloat-org/os uo check --repo .
